@@ -1,0 +1,12 @@
+.vs/
+bin/
+obj/
+**/Backup/
+**/node_modules/
+/todolist.webclient/build/static/css/main.a1fdf363.css
+/todolist.webclient/build/static/css/main.a1fdf363.css.map
+/todolist.webclient/build/static/js/787.cae55f04.chunk.js
+/todolist.webclient/build/static/js/787.cae55f04.chunk.js.map
+/todolist.webclient/build/static/js/main.827704f7.js
+/todolist.webclient/build/static/js/main.827704f7.js.LICENSE.txt
+/todolist.webclient/build/static/js/main.827704f7.js.map

@@ -1,0 +1,15 @@
+.table_container {
+    margin: 30px;
+    height: 70%;
+    width: 100%;
+}
+
+.table{
+
+    display: flex;
+}
+
+.td{
+    text-align: center;
+    vertical-align: center;
+}
